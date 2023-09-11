@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julen</h1>
-<h3 align="center">Uso este template de Readme pocho</h3>
+<h3 align="center">Uso este template de Readme pocho y mi github como cuaderno de apuntes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julen-smith&label=Profile%20views&color=0e75b6&style=flat" alt="julen-smith" /> </p>
 
